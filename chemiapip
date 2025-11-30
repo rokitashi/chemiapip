@@ -19,11 +19,54 @@
 
     Wymiany             - AB + CD -> AC + BD 
 
-    Redoks              - ?
+    Redoks              - utlenienie i redukcja
+
+    Hydroliza?          - reakcja wymiany między wodą a substancją (wymiana defacto)
 
 
 3. Typy oddziaływań na granicy faz, wiązania kowalencyjne, jonowe, wodorowe:
 
-    Typy oddziaływań 
+    Typy oddziaływań         - fizyczne (adsorpcja) i chemiczne (chemisorbcja)
+
+    Wiązania kowalencyjne    - zakres elektroujemności 0 - 1,7, wspólna para elektronów, elektrony są współdzielone przez oba atomy tworzące wiązanie. są spolaryzowanie i niespolaryzowane.
+
+    Wiązania jonowe          - zakres elektroujemności 1,7 - 3,3, jony powstały w wyniku trwałego przeniesienia elektronów z atomu metalu na niemetalu
+
+    Wiązania wodorowe        - wiązanie między atomem wodoru i atomemelektroujemnym z wolmymi parami elektronów
+
+
+
+4. Podstawowe zjawiska na granicy faz. 
+   Napięcie powierzchniowe a swobodna energia powierzchni. 
+   Kąt zwilżania. Metody pomiary kąta zwilżania. 
+   Metody wyznaczania swobodnej energii powierzchniowej: Owensa-Wendta i kwasowo-zasadowa (bez wzorów)
+
+    Podstawowe zjawiska                      - krystalizacja, adsorpcja, desorbcja, dyfuzja, parowanie, skraplanie
+
+    Napięcie pow. a swobodna energia pow.    - napięcie pow. występuje między fazą cieczy a innej substancji a swobodna energia pow. to siła która potrzebna jest aby wytworzyć jednostkową powierzchnię
+
+    Kąt zwilżania i jego pomiar              - kąt między powierzchnią płaską ciała stałego stykającego się z cieczą. mierzony goniometrem
+
+    Metody wyznaczania                       - Owensa-Wendta: suma wszystkich oddziaływań z wyjątkiem, jest oddziaływaniem polarnym. Swobodna energia powierzchniowa ma dwie składowe – polarna i dyspersyjną.
+                                               Aby obliczyć SEP wg metody Owensa-Wendta należy dokonać pomiarów CA dla dwóch różnych cieczy o znanych wartościach γd i γD
+                                             - kwasowo-zasadowa: ?
+
+
+5. u Anii
+
+
+6. Wprowadzenie do reologii. Właściwości reologiczne płynów nienewtonowskich i newtonowskich. Charakterystyka płynięcia. Metody pomiaru lepkości. Lepkość a czas płynięcia
+
+    Wprowadzenie: Jest to nauka zajmująca się badaniem zależności pomiędzy odkształceniami ciał a siłami wywołującymi te odkształcenia. (plastyczne, sprężyste, przepływ)
+
+    Właściwości:    - newtonowskie:       - krzywa płynięcia jest linią prostą, a lepkość jest stała, spełniają równanie newtona
+                    - nienewtonowskie:    - wszystkie ciecze, co nie spełniają równania newtona, krzyw płynięcia nie jest linią prostą
+
+    Lepkość to miara oporów stawianych podczas płynięcia a czas płynięcia to czas w którym płyn przepływa na powierzchni c. stałego?
+
+    
+
+
+
 
 Work in progress :)
