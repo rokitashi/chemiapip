@@ -1,0 +1,66 @@
+
+Prowadzący: prof. dr hab. inż. Marek Pawlikowski
+	NT 317
+		konsultacje:
+			pon 10:00-11:00
+			śr	12:00-13:00
+
+Egzamin w sesji letniej, wystarczy wykład, 4 pytania teoretyczno-zadaniowe (będzie mówił, że coś się może pojawić na egz., adnotacja "//ważne")
+
+Literatura:
+- poestawy wytrzymałości materiałów, J.Lewiński, A.Wilczyński
+- wytrzymałość materiałów w zadaniach, J.Lewiński
+- wytrzymałość materiałów, Zbigniew Brzoska
+
+Kod do platformy Mentimeter: 47053954 menti.com
+
+Prezentacje nie są udostępniane
+
+===========================================================================================================================================================================
+
+Każde zadanie zaczyna się od wyznaczenia reakcji (siły?)
+
+Skupiamy się na prętach, rozciąganych ściskanych i zgianych
+Interesują nas naprężenia, odkształcenia
+
+Wyróżniamy 3 podpory: (ad. 1)
+	- przegubowa nieprzesuwna	(2 siły?)
+	- przegubowa przesuwna		(1 siła?)
+	- ściana?					(3 siły?)
+		gdzie powstaje 3 siła, nie możemy prętu obrócić jak jest w ścianie. 
+
+Gdy stoimy na podłodze to działamy na podłogę siłą, a ona na nas silą reakcji	
+
+Siły zewnętrzne: ciężar, 
+
+Siły wewnętrzne w tym przypadku siły reakcji cysterny na poszczególne elementy wagonu między sobą (ad. 2), połączona konstrukcja i jej naprężenia (ad. 3)
+
+Wysiłek przekroju (ad. 4), siłę wypadkową możemy rozłożyć na 3 składowe (x1 = x, x2 = y, x3 = z), wzdłuż x1 jako N, wzdłuż x2 i x3 jako T (odpowiednia 2 i 3)
+Rozłożenie sił znigania itp. (ad. 5)
+
+Pręt rysujemy jako linia, potem oznaczamy.
+
+xA - odległość przekroju od punktu (np. B)
+
+W przestrzennym dowolnym układzie sił, układamy 6 równań równowagi statycznej (z których wyznaczymy 6 niewiadomych) //ważne!
+Aby to zrobić zsumujemy wszystkie siły z osi x1 i przyrównamy do 0, analogicznie do x2 i x3. Następnie sumujemy moment osi i przyrównujemy do 0 (analigiczne do x2 i x3)
+
+Układ płaski (ad. 6)
+Suma sił wzdłuż osi x1: R1 = 0
+Suma sił wzdłuż osi x2: R2 + RB - Q = 0
+Suma momentów wzledem punktu A: RB*2l - Q*l + R2*0 = 0 (bo R2 jest w punkcie A) (odejmujemy Q od RB bo kręcą obektem w dwie inne strony)
+
+
+Układ niepłaski (ad. 7)
+Suma sił wzdłuż x1 = 0  suma momentów względem x1 = 0
+Suma sił wzdłuż x2 = 0  suma momentów względem x2 = 0
+Suma sił wzdłuż x3 = 0  suma momnetów względem x3 = 0
+
+Przy momencie potrzebujemy prostopadłej siły (na pewno nie równoległej)
+
+Ex1: N - P1cosAlpha = 0 	EMx1: Ms - P1sinAlpha*a (bo się wkręca?) = 0
+Ex2: T2 + P1sinAlpha = 0 	EMx2: Mg2 - P1cosAlpha*a = 0
+Ex3: T3 = 0 				EMx3: Mg3 - P1sinAlpha*xA = 0
+
+Aby obiket był w równowadze statycznej, wszyskie siły muszą równać się 0 //ważne!
+

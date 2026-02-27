@@ -1,0 +1,45 @@
+Autorem notatek jest Bartek Rokita
+
+Prowadzący: mgr inż. Ewa Kołodziejuk
+    ZTP 104, ewa.kolodziejuk@pw.edu.pl
+
+Sprawdzanie pisowni - F7
+
+Znajdź/zamień ctrl h
+
+Łącznik nierozdzielający - zamienia łączniki sylabowe rozdzielające wyrazy na takie niewidoczne (występuje czasem)
+
+Firet - odpowiednik stopnia pisma
+
+znajdź ( <[a-z]{1}>) zamien na \1^s     - znajduje wyrazy jednoliterowe i umieszcza na nich spacje nierozłączną
+
+Korespondencja seryjna (3 ćwiczenie)
+    wysłanie do wielu adresatów personalizowanej wiadmości automatycznie
+    potrzebne:
+        zakładka korespondencji
+        dokument ze stałą treścią
+        zaznaczamy gdzie są pola zmienne
+        źródło danych (nazwiska, adresy itp)
+        scalenie dokumentu
+
+Najpierw reguła potem formatowanie
+
+Makropolecenia będą na zaliczenie
+
+Miejsce makropoleceń (trzeba włączyć okno developer)
+    /widok/makra
+
+Formanty są do szablonów - tworzenie np. ankiet (ograniczanie liczby odpowiedzi etc.)
+
+Zarejestruj         - początek rejestracji makra
+
+Na co zwracać uwagę?
+    kolejność poleceń (żeby się okienko nie wyświetliło w środku makra)
+
+Zabezpieczenie makropoleceń - brak automatycznego uruchomienia makro
+
+W prezentacji ilość tekstu na slajd to 8-12 wierszy (bardziej hasła niż rozbudowane akapity)
+
+Liczba kolorów 3-5
+    stonowane tło
+    lepiej ciemne litery na jasnym tle

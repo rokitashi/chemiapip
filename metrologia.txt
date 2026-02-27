@@ -1,0 +1,48 @@
+
+Prowadzący: dr hab. inż. Tadeusz Sałaciński
+	ST108, tadeusz.salacinski@pw.edu.pl
+
+	resztę wyjaśni Sałaciński
+
+	Intro man: dr inż. Jarosław Misiak, 22 234 8404, jaroslaw.misiak@pw.edu.pl
+
+==================================
+
+Błąd pomiarowy - drobna różnica między pomiarami
+	wzór: xi - x0 (wynik pomiaru - wartość prawdziwa)
+
+	- błąd przypadkowy: nie skorelowane błędy experymentatora, szumy układu pomiarowego czy zakłócenia
+	- błąd systematycnzy: systematyczna różnica między kolejnymi pomiarami a prawdą
+	- błąd gruby: drastycznie duża różnica między pomiarem a prawdą
+
+Niepewność standardowa - niepewność wyniku pomiaru (odchylenie standardowe), u(x) gdzie u jest liczbą
+
+Źródła niepewności pomiaru 
+	Nazywana 5M
+	- człowiek/osoba wykonująca pomiar (Man)
+	- przyrządy pomiarowe (Machine)
+	- obiekt mierzone (Material)
+	- metoda pomiarowa (Method)
+	- zmienne warunki środowiska (Milieu)
+
+	jeszcze jest "rybich ości" - bierzemy 5M i robimy odnogi do wszystkiego co można
+
+Błąd bezwzlględny: delta = x - x0
+Błąd względny: mała_delta = delta/x
+
+Metoda pomiarowa - sposób porównania wielkości mierzonej z jednostką
+	- bezpośrednia: otrzymujemy wynik bez potrzeby mierzenia innch wielkości
+	- pośrednia: i guess odwrotność bezpośredniej (pstryknął za szybko)
+
+Wartość oczekiwana = wartość średnia
+
+Medody pomiarowe:
+	Metoda A - satystyka, analiza statystyzna wyników pomiarów
+	Metoda B - bierzemy i mierzymy
+
+Pomiary pośrednie:
+	- pośredni wielkości: wykonanie kilku pomiarów mierzonych bezpośrednio
+
+Złożona niepewność standardowa: niepewość standardowa obliczana na podstawie wyników pomiarów pośrednich
+
+Niepewność rozszerzona U(x): wielkość przedziału wokół pomiaru, od którego coś 

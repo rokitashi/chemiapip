@@ -1,0 +1,179 @@
+Autorem notatek jest Bartek Rokita
+
+Prowadzący - Dr inż. Grzegorz Wróblewski
+    NT202, grzegorz.wroblewski@pw.edu.pl
+
+Konsultacje: (godziny umowne, pisać maila i umawiać indywidualnie)
+    pon 14:00 - 15:00
+    czw 12:00 - 13:00
+
+Regulamin przedmiotu:
+
+Obecność jest obowiązkowa na wszystkim oprócz wykładów.
+
+Na egzaminie można (zachęca się) do rysowania na karce w kratkę. Formaty A3 lub A4. Przybory kreślarskie wymagane.
+Na egzaminie zadania są tylko praktyczne - narysuj coś, a nie pamięciówa.
+
+Ocena końcowa = 40% oceny z wykładu + 30% oceny z projektowania + 30% oceny z labu.
+
+===============================================================================================================================================================================================
+
+Kątu prostego nie zaznaczamy na rysunku. To samo tyczy się elementów równoległych.
+Jeśli linia jest przedłużeniem innej linii, nie trzea rysować ponownie.
+
+Elementy okrągłe/obrotowe wymiaruje się od środka elementu (środka dziury).
+
+Ważne! Ścigają! - średnice elementów wymiaruje się gdy element nie wygląda na okrągły.
+
+Rzut aksonometryczny - "3D", tak jak byśmy na niego patrzyli.
+
+Skala jest na rysunkach kartograficznych, podziałka u nas.
+
+Może paść pytanie: podaj wymiar A0 etc. na 3/4 zajęciach (sprawdzian)
+
+Arkusz musi mieć linię obramowaina i tabliczkę rysunkową
+    linia obramowania       - odległość od krawędzi dla A3 i mniejszych (5mm), większych od A3 (7-10mm)
+    tabliczka rysunkowa     -
+
+Formay pochodne:
+    złączenie arkuszy dłuższymi bokami, oznaczamy wtedy jako np. A3x5 (łączenie bezbarwną taśmą od dołu)
+
+Tabliczka rysunkowa: (najważniejsze)
+    kreślił         - kto rysował
+    nazwa części    - nazwa części rysowanej
+    podziałka       - 1:1, 2:1 etc.
+    nr rysunku      - analogiczne
+
+Podziałka:
+    stosunek liczbowy wymiarów na rysunku do wymiarów rzeczywistych przedmiotu
+    powiększające   - 2:1, 5:1, 10:1
+    zmniejszające   - 1:2, 1:5, 1:10
+    naturalna       - 1:1
+    podziałki w nawiasach są dopuszczalne ale niezalecane
+
+Linia falista i linia zygzakowana są zamienne
+
+Linia:
+    gruba                                   - kontury (widoczne krawędzie), zazaczanie śladów płaszczyzn przy przekrojach
+    cienka ciągła                           - wymiarowanie, wizualizowanie sczegółów konstrukcyjnych
+    linia z długą kreską i kropką           - oś smetrii
+    linia z długą kreską i dwiema kropkami  - ruchome elementy, przebieg ich drogi, linia zgięć
+
+Wymiary kątowe nie podlegają podziałce!
+    prawidłowe  - 5st 52min 12s
+    złe         - 11st 15,6min      //powinno być 11st 15 min 36s
+
+Wymiar jest zawsze powyżej linii wymiarowej ok. 1mm
+
+Pierwsza linia wymiarowa oddalona o ok. 10mm, pomiędzy innymi liniami 7mm
+
+Dwie kreseczki na osi symetrii to idealne odbicie
+
+Wymiar kołnierza pomijany (kompensacja błędu)
+
+Tuleja:
+    rysujemy w pólwidoku-półprzekroju (z czego widok na górze, przekrój na dole)
+
+Zamalowanie otworów to zaznaczanie tych samych, aby się nie myliły
+
+Wymiarując kwadrat dodajemy symbol kwadratu (tak jak znaczek "fi")
+
+Materiały i ich kreskowanie (kreskuje się względem długiego boku, osi etc.)
+    metal (stopy też) - cienka ciągła kąt 45deg
+    drewno - słoje (krzywe kreski)
+    drweno w poprzek włókien - pajęczynki
+    drweno wzdłóż włókien - trochę jak zaznaczenie terenu na mapie
+    tworzywo sztuczne - Xsy
+
+Dwa wyrwania blisko siebie mozna połączyć
+
+Dla czytelności rysunku elementy łączące (śruby, nakrętki itp.) są wyjęte z przekroju (nie kroimy ich, rysujemy w widoku)
+
+Kłady są miejscowe i przesunięte
+    miejscowy:      rysowanie bezpośrednio na detalu (łatwo jak jest długi)
+    przesunięty:    w innym miejscu rysunku, zaznaczone osią (może skręcać)
+
+Kład a przekrój - kład ma tylko oś punktową a przekrój oś, literkę i strzałkę
+
+Jeżeli w rysowaniu kładu są rodłączne pola (dziura po np. gwincie), w drodze wyjątku rysuje się tak jak w przekroju (z zaznaczeniem kontórów, żeby było widać, że to jeden element)
+
+Uproszczenia rysunkowe i rysunki schematyczne (śruby, wkręt, koła zębate)
+
+Gwinty
+    trójkątne: połączenia (barziej ostry ksztat gwintu) dwa rodzaje: metryczne i calowe. (w metrycznym skok między ząbkami a w calowym liczba zwojów na cal)
+    trapezowe: w maszynach, do ustawienia maszyny itp. (bardziej prostokątny)
+
+Wymiary zewnętrzne i wewnętrzne małymi literkami śrubki
+Wymiary zewnętrzne i wewnętrzne dużymi literkami nakrętki
+
+W śrubie wszystko POZA średnicą wewnętrzną rysować grubą linią! //ważne!
+
+Rysowanie otworu z gwintem
+    najpierw rysujemy śrubę zgodnie z zasadami
+    potem wszędzie gdzie nie ma śruby, rysujemy nakrętkę zgodnie z zasadami rysunku
+
+Zasady wymiarowania wybrnaych części maszyn:
+    wymiary nie mogą przecinać konturów
+    można przerwać linię konturową aby pokazać wymiar
+
+Stożki wymiarujemy:
+    dużą średnicą
+    wymiarem gabarytowym
+    tym trzecim (zbieżnością lub pochyleniem)
+
+Zasady zapisu tolerancji wymiarów oraz stanu powierzchni
+
+Oznaczenia chropowatości w zeszycie
+
+    podawane w mikrometrach, wymagane głównie żeby wiedzieć czym jest a
+
+    a - pojedńcze wymaganie struktury                              - odgórne ustawienie (np. Rzmax 0,3 Rz 0,5)
+    b - podwójne oznaczenie                                        - narzucenie rygorystycznych ustawień parametrów (pod a np. Rz1 3,3)
+    c - metody wytwarzania                                         - metoda którą robimy (toczenie, frezowanie etc.)
+    d - oznaczenie nierówności powierzchni i ich kierunkowości     - powiedzmy wykończenie elementu (np. literka c, znaczek równoległy z matmy ale poziomy, znaczek prostopadły z matmy)
+    e - oznaczenie naddatku obróbkowego                            - mało dotyczy
+
+    umieszczać żeby końcówka (dziubek) przylegała do powierzchni do której się tyczy (ew. strzałka jak przy zaznaczaniu podcięcia), w pozycji poziomej (ew. pionowej, obrót o 90deg)
+    jeśli umieszczenie nie jest możliwe - robimy odnośniki
+
+    gdy powierzchnia ma mieć taką samą chropowatość wszędzie, umieszczamy jeden znak nad tabliczką
+    gdy większość powierzchni ma mieć taką samą chropowatość, robimy tak jak powyżej dodając (znaczek chropowatości w nawiasie) i dodajemy tam gdzie trzeba pojedyńcze oznaczenia
+
+Do wymiarów zaliczają się
+    mieszane        - wymiar jest od powierzchni do linii pomocniczej
+    pośrednie       - odległość między dwoma wymiarami, między dwoma rowkami
+
+Wymiar nominalny - wymiar który chce uzyskać na gotowym detalu
+Wymiar graniczny - widełki w których może mieścić się wmiar cześci, przedział akceptowalnego odchyłu
+    określamy go za pomocą zdefiniowania "odchyłek" (o ile może być mniejszy lub wiekszy od rzeczywistego)
+
+    odchyłka dolna - ujemna      ES
+    odchyłka górna - dodatnia    EI
+
+    tolerancja - różnica między dolnym a górnym wymiarem granicznym
+        T = ES - EI
+        zawsze TI > 0
+
+Gdy nie ma podanych odchyłek obowiązuje warsztatowa klasa dokładności - odczytać w tabeli jakie są podstawowe tolerancje
+
+Spasowanie spoczynkowe - element ma się nie ruszać
+
+Mała literka - wałek
+Duża literka - otwór
+
+Oznaczenia z literkami odnoszą się do wartości z tabelek
+    np. wymiar nominalny 1-3mm to otwór H6 ma widełki +6;0
+
+Rysunek techniczny a złożeniowy
+    złożeniowy powinien zawierać wykaz wszystkich części
+    numeracja części określona - najpierw wszystkie które trzeba wykonać, potem handlowe, potem handlowe specjalne
+    nr 1 powinna być zawsze częścią która się nie przemieszcza
+    odnośniki układać w linii w pionie i w poziomie
+
+Rysunek montażowy jest podobny do złożeniowego - zasada numeracji zależy od kolejności montowania części
+
+Egzamin - 1 tydzień lutego
+    ok. 5 pytań
+    pytania rysunkowe (nie podaj rozmiar arkusza) - rysowanie detalu w 6 rzutach, wałek, tuleja, pewnie coś z gwintów, przekrojów
+    15 pkt za cały egzamin
+

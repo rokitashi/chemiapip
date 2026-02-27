@@ -1,0 +1,81 @@
+
+Prowadzący: dr hab. inż. Tadeusz Maciołek
+	zastępca dr Zbigniew Drążek
+
+Pytania techniczne zadawać na konsultacjach, nie przez maila.
+
+Zaliczenie: 
+	wykład max 40 pkt.
+	ćwiczenia max 20 pkt.
+	lab max 30 pkt * 0.7
+
+	ocena końcowa max 81 pkt., zaliczneie od 40,5 pkt.
+
+Literatura: elektrotechnika i elektronika dla nieelektryków, (skrypt) Podstawy elektrotechniki i elektroniki - zbiór zadań dla nieelektyków
+
+============================================================================================================================================================================
+Natężenie prądu [I]
+
+Elementy dzielą sie na:
+	Pasywne
+	Aktywne
+
+Pasywne:
+	rezystor (R, rezystancja w ohm) [ohm]
+	cewka (L, indukcyjność w henr(ach?)) [H]
+	kondensator (C, pojemność w faradach) [F]
+
+Źródła:
+	napięciowe (E) [V] 
+	prądowe (J) [A]
+
+Konduktancja (G) jedność przez R (I/S) mierzona w siemensach [S]
+
+Występują połączenia: szeregowe i równoległe
+	szeregowe: suma rezystancji (R=R1+R2+R3)
+	równoległe: suma konduktancji elementów (G=G1+G2+G3), następnie należy odwrócić do postaci R=1/G
+		dodatkowo w połaczeniu szeregowym można dodać element aktywny w szeregu, nie zmieniając rezystancji. w równoległym to jest bląd (ad. 1)
+
+Ad. 2
+Strzałkowanie: na chybił trafił, tak żeby miało sens. strzałki napiciowe na elementach asktywnych będzie tak działać jak strzałka? 
+
+Na elementach pasywnych zwroty spadku napięć skierowane na odwrót do kierunku prądu
+
+Prawa Kirchhoffa: https://pl.wikipedia.org/wiki/Prawa_Kirchhoffa_(elektryczno%C5%9B%C4%87)
+	1 - dla każdgo z węzłów w obwodzie suma prądów daje 0
+	2 - suma wszystkich spadków oczków w obwodzie równa 0
+
+Zasada superpozycji(złożenie): dopuszczana w systemach liniowych. składamy odpowiedzi z każdego źródła (musimy mieć wszystkie składowe)
+
+Prawo ohma: napęcie podzielone przez rezystancję [V/R]
+
+Ad. 3 
+Metoda prądów oczkowych - ten sam prąd płynie przez wszystkie gałęzie oczka. mogę wziąć pod uwagę tyle oczek które sa liniowo niezależne (nie wiem jeszcze jak to wyjaśnić)
+	ta metoda wygeneruje najmniej równań (w tym przypadku 2)
+
+	macierz rezystancyjna przemnożona przez macierz pródów napięciowych równa się maciery wymuszeń pradowych
+		rezystancyjna - nxn gdzie n to liczba oczek liniowo niezależnych, w główną przekątną wstawiamy główne rzystancje.
+						w drugą przekątną łączne rezystory? (jeśli prądy oczkowe zgodne to wtedy dajemy +)
+
+		Prądów napięciowych - J1 i J2
+
+		wymuszeń prądowych - patrzymy na co natrafiamy i zapisujemy. gdyby źródła nie było wtedy wstawiamy 0
+
+	nastepnie rozwiązujemy np. met. wyznaczników cramera (cramerka XD)
+
+Z samego idelanego źródła napięciowego nie zrobimy idealnego źródła prądowego od tak se. potrzeba mieć coś... (rezystancje wewnętrzną?)
+
+Powyższa metoda nie jest implementowana w symulatorach i systemach liczenia. stosuje się metodę potencjału, więcej równań. tak powiedział
+
+Ad. 4
+Aby rozwiązywać obwody z func. sinusoidalną zmienną należy:
+
+Czym jest j? Nie jest gruszką.
+	j^2 = -1 (jednostka urojona)
+
+Wartość skuteczna = amplituda/sqrt(2) WYŁĄCZNIE DLA SIN!
+
+Impedancja - wszystkie opory dla prądu zmiennego
+
+Cewka powoduje reaktancję indukcyjną
+Rezystor powoduje reaktancję rezystancyjną 

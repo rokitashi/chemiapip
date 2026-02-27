@@ -1,0 +1,13 @@
+Autorem notatek jest Bartek Rokita
+
+Prowadzący: prof. dr hab. inż. Yuriy Pyr'yev
+
+Jedne zajęcia w semestrze można opuścic
+
+Obecność jest uwzględniona w ocenie końcowej    //ważne!
+
+2 sprawdziany (w excelu, bardzo proste)
+
+na 4 spotkanie sprawozdanie
+
+ćw 4 - wykonaj tabelę dla kąta alpha od 0 do 360 stopni, sinus i cosinus
